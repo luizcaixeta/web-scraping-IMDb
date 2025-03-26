@@ -9,3 +9,4 @@ Este projeto utiliza técnicas de web scraping para extrair dados do IMDb, focan
 3. **Carga:** Os dados processados foram armazenados em um banco de dados SQL, otimizando sua consulta e gerenciamento.
 
 Em seguida, a base foi conectada ao Power BI, permitindo a criação de dashboards interativos para análise visual. O projeto demonstra a aplicação de ETL e ferramentas de BI em um fluxo completo de tratamento de dados, desde a coleta até a geração de insights.
+
